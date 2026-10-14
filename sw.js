@@ -1,7 +1,8 @@
-const CACHE_NAME = 'ff-support-hub-v1';
+const CACHE_NAME = 'ff-support-hub-v2';
 const urlsToCache = [
-  '/',
-  '/index.html'
+  '/recoveryportal.com/',
+  '/recoveryportal.com/index.html',
+  '/recoveryportal.com/manifest.json'
 ];
 
 // ইনস্টল করার সময় ফাইলগুলো ক্যাশ করা
