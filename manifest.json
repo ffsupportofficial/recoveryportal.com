@@ -1,8 +1,8 @@
 {
-  "name": "recoveryportal.com",
-  "short_name": "FF SUPPORT",
-  "start_url": "/",
-  "scope": "/",
+  "name": "FF Recovery System",
+  "short_name": "FF RECOVERY",
+  "start_url": "/recoveryportal.com/index.html",
+  "scope": "/recoveryportal.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
